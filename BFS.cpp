@@ -9,8 +9,8 @@
 
 using namespace std;
 
-int check[11];
-vector<int> vec[11];
+int check[10];
+vector<int> vec[10];
 
 void link(int a, int b) {
     vec[a].push_back(b);
