@@ -4,3 +4,4 @@ project(DataStructure)
 set(CMAKE_CXX_STANDARD 17)
 
 add_executable(BFS BFS.cpp)
+add_executable(DFS DFS.cpp)
