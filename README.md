@@ -8,5 +8,5 @@ Queue를 이용하여 BFS(너비 우선 탐색)을 공부합니다.
 ### [DFS](https://github.com/SkyLightQP/DataStructure/tree/master/DFS.cpp)
 재귀함수를 이용하여 DFS(깊이 우선 탐색)을 공부합니다.
 
-
-
+### [Dijkstra](https://github.com/SkyLightQP/DataStructure/tree/master/Dijkstra.cpp)
+dijkstra(다익스트라) 알고리즘과 배열을 이용하여 시작점부터 다른 모든 정점의 최단경로를 구합니다.
