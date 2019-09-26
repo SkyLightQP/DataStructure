@@ -13,3 +13,9 @@ dijkstra(다익스트라) 알고리즘과 배열을 이용하여 시작점부터
 
 ### [Stack](https://github.com/SkyLightQP/DataStructure/tree/master/Stack.cpp)
 한쪽에서만 넣고 뺄 수 있는 LIFO(Last In First Out) 특징을 갖는 자료구조입니다.
+
+### [LinkedList](https://github.com/SkyLightQP/DataStructure/tree/master/LinkedList.cpp))
+구조체를 이용하여 LinkedList(을)를 구현합니다.
+
+### [Queue](https://github.com/SkyLightQP/DataStructure/tree/master/Queue.cpp))
+LinkedList를 이용하여 FIFO(First In First Out) 특징을 갖는 자료구조를 구현합니다.
