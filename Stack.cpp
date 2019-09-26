@@ -29,23 +29,14 @@ int pop() {
 }
 
 int main() {
-    cout << "isEmpty? " << empty() << endl;
-
     push(1);
     push(2);
     push(3);
     push(4);
     push(5);
 
-    pop();
 
-    push(10);
-
-    pop();
-
-    cout << "isEmpty? " << empty() << endl;
-
-    for(int i = 0; i <= top; i++) {
-        cout << arr[i] << endl;
+    while(!empty()) {
+        cout << pop() << endl;
     }
 }
